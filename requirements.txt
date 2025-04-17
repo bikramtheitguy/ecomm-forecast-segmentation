@@ -1,1 +1,11 @@
-prophet
+# Core data and modeling libraries
+pandas>=1.3.0
+numpy>=1.21.0
+scikit-learn>=1.0.0
+
+# Time series forecasting
+prophet>=1.1.1
+
+# Notebook & plotting
+jupyter>=1.0.0
+matplotlib>=3.4.0
